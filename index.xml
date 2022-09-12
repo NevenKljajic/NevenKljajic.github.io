@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<offer>
-    <id>1073101</id>
-    <slug>sachbearbeiter-einkauf-mfx</slug>
-    <title>
-    <![CDATA[ Sachbearbeiter Einkauf (m/f/x) ]]>
-    </title>
-    <description>
-    <![CDATA[ <p><strong>Ihre Aufgaben:</strong></p> <ul><li>Administrative Abwicklung und Koordination der Bestellvorgänge </li><li>Einkauf von externen Leistungen wie z.B. die externe mechanische Bearbeitung unserer anspruchsvollen Bauteile</li><li>Evaluation geeigneter Partner für Hilfs- und Betriebsmaterial</li><li>Begleitung der Anfragen an Lieferanten inkl. Verhandlungen</li></ul> ]]>
-    </description>
-    <requirements>
-    <![CDATA[ <p><strong>Ihr Profil:</strong></p> <ul><li>Erfolgreich abgeschlossene technische Grundausbildung</li><li>Weiterbildung im kaufmännischen Bereich </li><li>Gutes Sachverständnis für Produktionsabläufe und Verständnis für betriebswirtschaftliche Zusammenhänge</li><li>Erfahrung im Bereich Beschaffung</li><li>Versierte EDV-Kenntnisse (AMS-erp und MS-Office) </li><li>Stilsicheres Deutsch, gute mündliche Englischkenntnisse (Französischkenntnisse von Vorteil)</li></ul> <p>Es erwartet Sie eine vielseitige Tätigkeit in einem agilen KMU, das Freiraum für Kreativität und Weiterentwicklung gibt.</p> ]]>
-    </requirements>
-    <location>Kaiseraugst, Aargau, Schweiz</location>
-    <country>Schweiz</country>
-    <city>Kaiseraugst</city>
-    <country_code>CH</country_code>
-    <state_code>AG</state_code>
-    <postal_code>4303</postal_code>
-    <remote>false</remote>
-    <department>Rotzinger</department>
-    <employment_type_code>fulltime</employment_type_code>
-    <category>procurement</category>
-    <experience_code>experienced</experience_code>
-    <education_code>associate_degree</education_code>
-    <tags>
-    <tag>Schweiz</tag>
-    <tag>jobs.ch</tag>
-    </tags>
-    <min_hours/>
-    <max_hours/>
-    <company_name>Rotzinger Gruppe</company_name>
-    <careers_url>https://careers.rotzingergroup.com/o/sachbearbeiter-einkauf-mfx</careers_url>
-    <apply_url>https://careers.rotzingergroup.com/o/sachbearbeiter-einkauf-mfx/c/new</apply_url>
-    <mailbox_email>job.gahkv@rotzingergruppe.recruitee.com</mailbox_email>
-    <created_at>2022-09-06 06:41:32 UTC</created_at>
-    <updated_at>2022-09-12 11:04:12 UTC</updated_at>
-    <published_at>2022-09-06 06:51:31 UTC</published_at>
-    <close_at>2022-10-12 21:59:59 UTC</close_at>
-</offer>
+<offers>
+    <offer>
+        <id>1073101</id>
+        <slug>sachbearbeiter-einkauf-mfx</slug>
+        <title>
+        <![CDATA[ Sachbearbeiter Einkauf (m/f/x) ]]>
+        </title>
+        <description>
+        <![CDATA[ <p><strong>Ihre Aufgaben:</strong></p> <ul><li>Administrative Abwicklung und Koordination der Bestellvorgänge </li><li>Einkauf von externen Leistungen wie z.B. die externe mechanische Bearbeitung unserer anspruchsvollen Bauteile</li><li>Evaluation geeigneter Partner für Hilfs- und Betriebsmaterial</li><li>Begleitung der Anfragen an Lieferanten inkl. Verhandlungen</li></ul> ]]>
+        </description>
+        <requirements>
+        <![CDATA[ <p><strong>Ihr Profil:</strong></p> <ul><li>Erfolgreich abgeschlossene technische Grundausbildung</li><li>Weiterbildung im kaufmännischen Bereich </li><li>Gutes Sachverständnis für Produktionsabläufe und Verständnis für betriebswirtschaftliche Zusammenhänge</li><li>Erfahrung im Bereich Beschaffung</li><li>Versierte EDV-Kenntnisse (AMS-erp und MS-Office) </li><li>Stilsicheres Deutsch, gute mündliche Englischkenntnisse (Französischkenntnisse von Vorteil)</li></ul> <p>Es erwartet Sie eine vielseitige Tätigkeit in einem agilen KMU, das Freiraum für Kreativität und Weiterentwicklung gibt.</p> ]]>
+        </requirements>
+        <location>Kaiseraugst, Aargau, Schweiz</location>
+        <country>Schweiz</country>
+        <city>Kaiseraugst</city>
+        <country_code>CH</country_code>
+        <state_code>AG</state_code>
+        <postal_code>4303</postal_code>
+        <remote>false</remote>
+        <department>Rotzinger</department>
+        <employment_type_code>fulltime</employment_type_code>
+        <category>procurement</category>
+        <experience_code>experienced</experience_code>
+        <education_code>associate_degree</education_code>
+        <tags>
+        <tag>Schweiz</tag>
+        <tag>jobs.ch</tag>
+        </tags>
+        <min_hours/>
+        <max_hours/>
+        <company_name>Rotzinger Gruppe</company_name>
+        <careers_url>https://careers.rotzingergroup.com/o/sachbearbeiter-einkauf-mfx</careers_url>
+        <apply_url>https://careers.rotzingergroup.com/o/sachbearbeiter-einkauf-mfx/c/new</apply_url>
+        <mailbox_email>job.gahkv@rotzingergruppe.recruitee.com</mailbox_email>
+        <created_at>2022-09-06 06:41:32 UTC</created_at>
+        <updated_at>2022-09-12 11:04:12 UTC</updated_at>
+        <published_at>2022-09-06 06:51:31 UTC</published_at>
+        <close_at>2022-10-12 21:59:59 UTC</close_at>
+    </offer>
+</offers>
