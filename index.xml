@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <JOBS>
-    <INSERATE>
-        <INSERAT>
-            <ORGANISATIONID>35284</ORGANISATIONID>
-            <TEXT><![CDATA[<p>Somebody once told me</p>]]></TEXT>
-            <INSERATID>teamtailor-15-7</INSERATID>
-            <TITEL>Worker</TITEL>
-            <VORSPANN>fdsfds</VORSPANN>
-            <BERUF>Worker</BERUF>
-            <PLZ/>
-            <ORT/>
-            <KONTAKT>Kunde4</KONTAKT>
-            <EMAIL>admin@teamtailor.com</EMAIL>
-            <URL>https://career.teamtailor.localhost/jobs/15-worker?promotion=7-jobs-ch-existing-agreement</URL>
-            <START>2022-12-02T10:01:49+01:00</START>
-            <END/>
-            <FIRMA>Teamtailor</FIRMA>
-            <SPRACHE>en</SPRACHE>
-            <BEWERBEN_URL>https://career.teamtailor.localhost/jobs/15-worker/applications/new?promotion=7-jobs-ch-existing-agreement</BEWERBEN_URL>
-            <REGION>:3:</REGION>
-            <ANGEBOT>:30:</ANGEBOT>
-            <BRANCHE>:1:</BRANCHE>
-            <POSITION>:1:</POSITION>
-            <RUBRIKID>:154:</RUBRIKID>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <BILDUNGSNIVEAU>:543:</BILDUNGSNIVEAU>
-            <SPRACHKENNTNIS-NIVEAU>:3:</SPRACHKENNTNIS-NIVEAU>
-            <SPRACHKENNTNIS-KANDIDAT>:3:</SPRACHKENNTNIS-KANDIDAT>
-        </INSERAT>
+<INSERATE>
+      <INSERAT>
+        <ORGANISATIONID>109633</ORGANISATIONID>
+        <INSERATID>997</INSERATID>
+        <TITEL>Beeren Pflücker</TITEL>
+        <BERUF>Beeren Pflücker</BERUF>
+        <TEXT>Du muesh mega vill Beere pflücke und denn isst sie öpper... Crazyyyy</TEXT>
+        <ANGEBOT>43</ANGEBOT>
+        <ORT>Luzern</ORT>
+        <DIREKT_URL></DIREKT_URL>
+        <BEWERBEN_URL></BEWERBEN_URL>
+        <SPRACHE>de</SPRACHE>
+        <SPRACHKENNTNIS_KANDIDAT>0</SPRACHKENNTNIS_KANDIDAT>
+        <SPRACHKENNTNIS_NIVEAU>0</SPRACHKENNTNIS_NIVEAU>
+        <BILDUNGSNIVEAU>:0:</BILDUNGSNIVEAU>
+        <BERUFSERFAHRUNG>0</BERUFSERFAHRUNG>
+        <BERUFSERFAHRUNG_POSITION>0</BERUFSERFAHRUNG_POSITION>
+        <ALTER_VON>0</ALTER_VON>
+        <ALTER_BIS>0</ALTER_BIS>
+        <ANSTELLUNGSGRAD/>
+        <ANSTELLUNGSGRAD_BIS/>
+        <REGION>:11:8:</REGION>
+        <BRANCHE>4</BRANCHE>
+        <RUBRIKID>:12:43:</RUBRIKID>
+        <POSITION>:2:2:</POSITION>
+        <ANSTELLUNGSART>:4:5:</ANSTELLUNGSART>
+      </INSERAT>
     </INSERATE>
 </JOBS>
