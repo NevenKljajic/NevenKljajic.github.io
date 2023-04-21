@@ -3,9 +3,37 @@
 <INSERATE>
       <INSERAT>
         <ORGANISATIONID>109633</ORGANISATIONID>
-        <INSERATID>997</INSERATID>
+        <INSERATID>999</INSERATID>
         <TITEL>Beeren Pflücker - TEST</TITEL>
         <BERUF>Beeren Pflücker - TEST</BERUF>
+        <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
+        <ANGEBOT>43</ANGEBOT>
+        <ORT>Luzern</ORT>
+        <DIREKT_URL></DIREKT_URL>
+        <BEWERBEN_URL></BEWERBEN_URL>
+        <SPRACHE>de</SPRACHE>
+        <SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
+        <SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
+        <BILDUNGSNIVEAU>:0:</BILDUNGSNIVEAU>
+        <BERUFSERFAHRUNG>0</BERUFSERFAHRUNG>
+        <BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
+        <ALTER_VON></ALTER_VON>
+        <ALTER_BIS></ALTER_BIS>
+        <ANSTELLUNGSGRAD/>
+        <ANSTELLUNGSGRAD_BIS/>
+        <REGION></REGION>
+        <BRANCHE></BRANCHE>
+        <RUBRIKID></RUBRIKID>
+        <POSITION></POSITION>
+        <ANSTELLUNGSART>:4:5:</ANSTELLUNGSART>
+        <ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
+        <ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
+      </INSERAT>
+      <INSERAT>
+        <ORGANISATIONID>109633</ORGANISATIONID>
+        <INSERATID>998</INSERATID>
+        <TITEL>Holzfäller - TEST</TITEL>
+        <BERUF>Holzfäller - TEST</BERUF>
         <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
         <ANGEBOT>43</ANGEBOT>
         <ORT>Luzern</ORT>
