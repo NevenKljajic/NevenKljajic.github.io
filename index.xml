@@ -3,9 +3,9 @@
 <INSERATE>
       <INSERAT>
         <ORGANISATIONID>113920</ORGANISATIONID>
-        <INSERATID>999</INSERATID>
-        <TITEL>Beeren Pflücker - TEST</TITEL>
-        <BERUF>Beeren Pflücker - TEST</BERUF>
+        <INSERATID>006</INSERATID>
+        <TITEL>Goldpflücker - TEST</TITEL>
+        <BERUF>Goldpflücker - TEST</BERUF>
         <TEXT>
           <![CDATA[ <h3>Aufgaben</h3><UL> <LI>Montage von Geräten und Baugruppen </LI> <LI>Bedienen von Produktionsmaschinen </LI> <LI>Falten und Kleben von Filtern </LI> <LI>Qualitätskontrolle, Reinigung und Verpackung </LI> <LI>Funktionsprüfung </LI> <LI>Temporäranstellung ab sofort bis Herbst/Winter 2023</LI> <LI>Betriebsferien vom 24.07. bis 06.08.2023</LI></UL> <h3>Anforderungen</h3><UL> <LI>Erfahrung in der Produktion </LI> <LI>Tagesarbeitszeit (06.00 - 15.15 Uhr)</LI> <LI>sehr gute Deutschkenntnisse in Wort &amp; Schrift </LI> <LI>körperlich fit, belastbar und dynamisch </LI> <LI>sie sind sich gewohnt repetitive / eher monotone Arbeiten exakt auszuführen </LI> <LI>stehende Tätigkeit </LI></UL> <h3>Es erwartet Sie</h3><p>&nbsp;</p> ]]>
         </TEXT>
@@ -28,12 +28,13 @@
         <ANSTELLUNGSART>:4:5:</ANSTELLUNGSART>
         <ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
         <ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
+        <USER_KONTAKT_ID>248330</USER_KONTAKT_ID>
       </INSERAT>
       <INSERAT>
         <ORGANISATIONID>113920</ORGANISATIONID>
-        <INSERATID>998</INSERATID>
-        <TITEL>Holzfäller - TEST</TITEL>
-        <BERUF>Holzfäller - TEST</BERUF>
+        <INSERATID>007</INSERATID>
+        <TITEL>Ritter - TEST</TITEL>
+        <BERUF>Ritter - TEST</BERUF>
         <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
         <ANGEBOT>43</ANGEBOT>
         <ORT>Luzern</ORT>
@@ -54,6 +55,7 @@
         <ANSTELLUNGSART>:4:5:</ANSTELLUNGSART>
         <ANSTELLUNGSGRAD>100</ANSTELLUNGSGRAD>
         <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+        <USER_KONTAKT_ID>210700</USER_KONTAKT_ID>
       </INSERAT>
     </INSERATE>
 </JOBS>
