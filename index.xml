@@ -44,7 +44,7 @@
             <BERUF>Test 2 (youtube normal - ab XY Zeit)</BERUF>
             <TEXT>
                 youtube normal - ab XY Zeit
-                https://youtu.be/VAH-ixdFWFs?feature=shared&t=281
+                https://youtu.be/VAH-ixdFWFs?feature=shared&amp;t=281
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -68,7 +68,7 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://youtu.be/VAH-ixdFWFs?feature=shared&t=281</VIDEO>
+            <VIDEO>https://youtu.be/VAH-ixdFWFs?feature=shared&amp;t=281</VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
