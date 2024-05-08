@@ -2,117 +2,53 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <INSERATID>
-            <![CDATA[ 123456 ]]>
-            </INSERATID>
-            <ORGANISATIONID>
-            <![CDATA[ 113920 ]]>
-            </ORGANISATIONID>
-            <FIRMA>
-            <![CDATA[ Bob der Baumeister ]]>
-            </FIRMA>
-            <ARBEITGEBER_PDL>
-            <![CDATA[ Bob der Baumeister ]]>
-            </ARBEITGEBER_PDL>
-            <BERUF>
-            <![CDATA[ Testinserat Free Produkt ]]>
-            </BERUF>
-            <RUBRIKID>
-            <![CDATA[ :27:31: ]]>
-            </RUBRIKID>
-            <BANNER>
-            <![CDATA[ https://pms.imgix.net/d6b31253ee27a45c1ad80d4c532f885f?w=1200&h=400&fit=fill&fill-color=0FFF&fm=jpeg&fm=png ]]>
-            </BANNER>
-            <LOGO>
-            <![CDATA[ https://pms.imgix.net/a93f25305c4b8433c9d00bb9f8180a14?w=320&h=320&fit=fill&fill-color=0FFF&fm=jpeg&fm=png ]]>
-            </LOGO>
-            <VIDEO>
-            <![CDATA[ ]]>
-            </VIDEO>
-            <USER_KONTAKT_ID>
-            <![CDATA[ ]]>
-            </USER_KONTAKT_ID>
-            <SPRACHE>
-            <![CDATA[ de ]]>
-            </SPRACHE>
+            <ORGANISATIONID>113920</ORGANISATIONID>
+            <INSERATID>1377-115331-7-2</INSERATID>
+            <FIRMA>Bob der Baumeister</FIRMA>
+            <TITEL>
+            <![CDATA[ Test AD ]]>
+            </TITEL>
             <VORSPANN>
-            <![CDATA[ Vorspann Vorspann Vorspann Vorspann Vorspann Vorspann Vorspann Vorspann ]]>
+            <![CDATA[ <p>Für unseren Kunden, ein renommiertes Treuhandunternehmen, suchen wir eineN</p> ]]>
             </VORSPANN>
+            <BERUF>Test AD</BERUF>
             <TEXT>
-            <![CDATA[ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT  ]]>
+            <![CDATA[ <ul><li>Abgeschlossene kaufmännische Grundausbildung<li>Weiterbildung als Sachbearbeiter Rechnungswesen / Treuhand ist von Vorteil<li>Fundierte Berufserfahrung in einer vergleichbaren Position<li>Gute MS-Office und Abacus Kenntnisse<li>Muttersprache Deutsch<li>Sie sind eine teamorientierte, aufgestellte, motivierte und zuverlässige Persönlichkeit</ul> ]]>
             </TEXT>
+            <ARTDERARBEIT>
+            <![CDATA[ <ul><li>Führen von Kundenbuchhaltungen<li>Kreditoren- und Debitorenbuchhaltung<li>Mithilfe bei den Monats- und Jahresabschlüssen<li>Führen von Lohnbuchhaltungen<li>Lohn- und Personaladministration<li>MWST<li>Steuererklärungen für nat. und jur. Personen</ul> ]]>
+            </ARTDERARBEIT>
+            <PLZ></PLZ>
+            <ORT>Zug</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
             <BEWERBEN_URL>
-            <![CDATA[ ]]>
+            <![CDATA[ https://www.schoepfer-ag.ch/bewerben/1377-115331-7-2 ]]>
             </BEWERBEN_URL>
-            <DIREKT_URL>
-            <![CDATA[  ]]>
-            </DIREKT_URL>
-            <WEBHOOK_AD_VIEW>
-            <![CDATA[  ]]>
-            </WEBHOOK_AD_VIEW>
-            <ANGEBOT>
-            <![CDATA[ 43 ]]>
-            </ANGEBOT>
-            <GEHALT_VON>
-            <![CDATA[ ]]>
-            </GEHALT_VON>
-            <Anriss>
-            <![CDATA[ ]]>
-            </Anriss>
-            <STRASSE>
-            <![CDATA[ Hauptstrasse 61, 8840 Einsiedeln ]]>
-            </STRASSE>
-            <EMAIL>
-            <![CDATA[ ]]>
-            </EMAIL>
-            <ORT>
-            <![CDATA[ Einsiedeln ]]>
-            </ORT>
-            <GEHALT_BIS>
-            <![CDATA[ ]]>
-            </GEHALT_BIS>
-            <ANSTELLUNGSGRAD>
-            <![CDATA[ 50 ]]>
-            </ANSTELLUNGSGRAD>
-            <PLZ>
-            <![CDATA[ 8840 ]]>
-            </PLZ>
-            <BRANCHE>
-            <![CDATA[ 20 ]]>
-            </BRANCHE>
-            <REFERENZ>
-            <![CDATA[ ]]>
-            </REFERENZ>
-            <GEHALT_SICHTBAR>
-            <![CDATA[ NEIN ]]>
-            </GEHALT_SICHTBAR>
-            <REGION>
-            <![CDATA[ 11 ]]>
-            </REGION>
-            <ANSTELLUNGSGRAD_BIS>
-            <![CDATA[ 100 ]]>
-            </ANSTELLUNGSGRAD_BIS>
-            <GEHALT_RATE>
-            <![CDATA[ JAHR ]]>
-            </GEHALT_RATE>
-            <ANSTELLUNGSART>
-            <![CDATA[ 5 ]]>
-            </ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>
-            <![CDATA[ :1:0:0: ]]>
-            </SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>
-            <![CDATA[ :3:0:0: ]]>
-            </SPRACHKENNTNIS_NIVEAU>
-            <BERUFSERFAHRUNG>
-            <![CDATA[ :27:31: ]]>
-            </BERUFSERFAHRUNG>
-            <BERUFSERFAHRUNG_POSITION>
-            <![CDATA[ :3:3: ]]>
-            </BERUFSERFAHRUNG_POSITION>
-            <POSITION>
-            <![CDATA[ :3:3: ]]>
-            </POSITION>
-        </INSERAT>
+            <LAYOUT/>
+            <LOGO>https://www.easytemp.ch/bin/mandant1377.gif</LOGO>
+            <REGION>:11:</REGION>
+            <RUBRIKID>:17:</RUBRIKID>
+            <POSITION>:2:</POSITION>
+            <BRANCHE>19</BRANCHE>
+            <ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>80</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>5</ANSTELLUNGSART>
+            <SPRACHE>de</SPRACHE>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <BILDUNGSNIVEAU>:1:193:543:</BILDUNGSNIVEAU>
+            <ALTER_VON>0</ALTER_VON>
+            <ALTER_BIS>65</ALTER_BIS>
+            <BERUFSERFAHRUNG>:17:</BERUFSERFAHRUNG>
+            <BERUFSERFAHRUNG_POSITION>:2:</BERUFSERFAHRUNG_POSITION>
+            <ANGEBOT>37</ANGEBOT>
+            <CAMPAIGN>1</CAMPAIGN>
+            <STREET/>
+            <LOHN_MIN/>
+            <LOHN_MAX/>
+            <CPC/>
+            </INSERAT>
     </INSERATE>
 </JOBS>    
