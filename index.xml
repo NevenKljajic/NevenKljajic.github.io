@@ -2,16 +2,16 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <ORGANISATIONID>113920</ORGANISATIONID>
+            <ORGANISATIONID>113926</ORGANISATIONID>
             <INSERATID>1377-115331-7-2</INSERATID>
             <FIRMA>Bob der Baumeister</FIRMA>
             <TITEL>
-            <![CDATA[ Test AD ]]>
+            <![CDATA[ Test AD Banner default]]>
             </TITEL>
             <VORSPANN>
             <![CDATA[ <p>Für unseren Kunden, ein renommiertes Treuhandunternehmen, suchen wir eineN</p> ]]>
             </VORSPANN>
-            <BERUF>Test AD</BERUF>
+            <BERUF>Test AD Test AD Banner default</BERUF>
             <TEXT>
             <![CDATA[ <ul><li>Abgeschlossene kaufmännische Grundausbildung<li>Weiterbildung als Sachbearbeiter Rechnungswesen / Treuhand ist von Vorteil<li>Fundierte Berufserfahrung in einer vergleichbaren Position<li>Gute MS-Office und Abacus Kenntnisse<li>Muttersprache Deutsch<li>Sie sind eine teamorientierte, aufgestellte, motivierte und zuverlässige Persönlichkeit</ul> ]]>
             </TEXT>
@@ -44,11 +44,7 @@
             <BERUFSERFAHRUNG>:17:</BERUFSERFAHRUNG>
             <BERUFSERFAHRUNG_POSITION>:2:</BERUFSERFAHRUNG_POSITION>
             <ANGEBOT>37</ANGEBOT>
-            <CAMPAIGN>1</CAMPAIGN>
-            <STREET/>
-            <LOHN_MIN/>
-            <LOHN_MAX/>
-            <CPC/>
+            <BANNER></BANNER>
             </INSERAT>
     </INSERATE>
 </JOBS>    
