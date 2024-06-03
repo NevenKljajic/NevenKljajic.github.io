@@ -2,32 +2,24 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <ORGANISATIONID>113920</ORGANISATIONID>
-            <INSERATID>4569018</INSERATID>
-            <FIRMA>Bob der Baumeister</FIRMA>
-            <TITEL>
-            <![CDATA[ Test AD Banner default]]>
-            </TITEL>
+            <ORGANISATIONID>137976</ORGANISATIONID>
+            <INSERATID>123456789987654</INSERATID>
+            <FIRMA>Vale test</FIRMA>
+            <TITEL>Test AD Valentina</TITEL>
             <VORSPANN>
-            <![CDATA[ <p>Für unseren Kunden, ein renommiertes Treuhandunternehmen, suchen wir eineN</p> ]]>
+            <![CDATA[ <p>Für unseren Kunden, ein renommiertes Treuhandunternehmen, suchen wir einen</p> ]]>
             </VORSPANN>
-            <BERUF>Test AD Test AD Banner default</BERUF>
+            <BERUF>Test AD Valentina</BERUF>
             <TEXT>
-            <![CDATA[ <ul><li>Abgeschlossene kaufmännische Grundausbildung<li>Weiterbildung als Sachbearbeiter Rechnungswesen / Treuhand ist von Vorteil<li>Fundierte Berufserfahrung in einer vergleichbaren Position<li>Gute MS-Office und Abacus Kenntnisse<li>Muttersprache Deutsch<li>Sie sind eine teamorientierte, aufgestellte, motivierte und zuverlässige Persönlichkeit</ul> ]]>
+            <![CDATA[ <ul><li>Abgeschlossene kaufmännische Grundausbildung<li>Weiterbildung als Sachbearbeiter Rechnungswesen / Treuhand ist von Vorteil<li>Fundierte Berufserfahrung in einer vergleichbaren Position<li>Gute MS-Office und Abacus Kenntnisse<li>Muttersprache Deutsch<li>Sie sind eine teamorientierte, aufgestellte, motivierte und zuverlässige Persönlichkeit</ul><ul><li>Führen von Kundenbuchhaltungen<li>Kreditoren- und Debitorenbuchhaltung<li>Mithilfe bei den Monats- und Jahresabschlüssen<li>Führen von Lohnbuchhaltungen<li>Lohn- und Personaladministration<li>MWST<li>Steuererklärungen für nat. und jur. Personen</ul> ]]>
             </TEXT>
-            <ARTDERARBEIT>
-            <![CDATA[ <ul><li>Führen von Kundenbuchhaltungen<li>Kreditoren- und Debitorenbuchhaltung<li>Mithilfe bei den Monats- und Jahresabschlüssen<li>Führen von Lohnbuchhaltungen<li>Lohn- und Personaladministration<li>MWST<li>Steuererklärungen für nat. und jur. Personen</ul> ]]>
-            </ARTDERARBEIT>
-            <PLZ></PLZ>
-            <ORT>Zug</ORT>
+            <PLZ>8047</PLZ>
+            <ORT>Zürich</ORT>
             <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
+            <EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
             <URL></URL>
-            <BEWERBEN_URL>
-            <![CDATA[ https://www.schoepfer-ag.ch/bewerben/1377-115331-7-2 ]]>
-            </BEWERBEN_URL>
-            <LAYOUT/>
-            <LOGO>https://www.easytemp.ch/bin/mandant1377.gif</LOGO>
+            <BEWERBEN_URL>https://www.jobs.ch/de/application/create/045ed79f-4080-4e54-8644-94a60b9fa4fd/</BEWERBEN_URL>
+            <LOGO>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDnGoZgMsU1q8Cvr4_sBIY7P3FL5VRn4Z2Q&s</LOGO>
             <REGION>:11:</REGION>
             <RUBRIKID>:17:</RUBRIKID>
             <POSITION>:2:</POSITION>
@@ -43,8 +35,9 @@
             <ALTER_BIS>65</ALTER_BIS>
             <BERUFSERFAHRUNG>:17:</BERUFSERFAHRUNG>
             <BERUFSERFAHRUNG_POSITION>:2:</BERUFSERFAHRUNG_POSITION>
-            <ANGEBOT>37</ANGEBOT>
-            <BANNER></BANNER>
-            </INSERAT>
+            <ANGEBOT>14</ANGEBOT>
+            <BANNER>43594</BANNER>
+            <VIDEO>https://www.youtube.com/watch?v=dQw4w9WgXcQ</VIDEO>
+        </INSERAT>
     </INSERATE>
 </JOBS>    
