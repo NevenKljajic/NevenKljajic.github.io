@@ -20,6 +20,7 @@
         <VIDEO></VIDEO>
         <USER_KONTAKT_ID></USER_KONTAKT_ID>
         <ENDPOINT>https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch</ENDPOINT>
+        <ATSI_APPLY_URL>https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch</ATSI_APPLY_URL>
         <ANGEBOT>46</ANGEBOT>
     </INSERAT>
 </JOBS>
