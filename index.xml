@@ -2,6 +2,7 @@
     <INSERATE/>
     <INSERAT>
         <ORGANISATIONID>109741</ORGANISATIONID>
+        <EXTERNAL_ID>1234</EXTERNAL_ID>
         <INSERATID>111</INSERATID>
         <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
         <BERUF>Test Stage Arca24</BERUF>
@@ -18,8 +19,7 @@
         <BANNER></BANNER>
         <VIDEO></VIDEO>
         <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        <ENDPOINT>
-             https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch 
-        </ENDPOINT>
+        <ENDPOINT>https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch</ENDPOINT>
+        <ANGEBOT>46</ANGEBOT>
     </INSERAT>
 </JOBS>
