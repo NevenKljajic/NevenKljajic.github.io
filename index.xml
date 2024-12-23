@@ -21,5 +21,6 @@
         <USER_KONTAKT_ID></USER_KONTAKT_ID>
         <ENDPOINT>https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch</ENDPOINT>
         <ANGEBOT>46</ANGEBOT>
+        <KAMPAGNE>free</KAMPAGNE>
     </INSERAT>
 </JOBS>
