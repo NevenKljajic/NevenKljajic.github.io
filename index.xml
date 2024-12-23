@@ -1,43 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <JOBS>
-    <INSERATE>
-        <INSERAT>
-            <ORGANISATIONID>137976</ORGANISATIONID>
-            <INSERATID>123456789987654</INSERATID>
-            <FIRMA>Vale test</FIRMA>
-            <TITEL>Test AD Valentina</TITEL>
-            <VORSPANN>
-            <![CDATA[ <p>Für unseren Kunden, ein renommiertes Treuhandunternehmen, suchen wir einen</p> ]]>
-            </VORSPANN>
-            <BERUF>Test AD Valentina</BERUF>
-            <TEXT>
-            <![CDATA[ <ul><li>Abgeschlossene kaufmännische Grundausbildung<li>Weiterbildung als Sachbearbeiter Rechnungswesen / Treuhand ist von Vorteil<li>Fundierte Berufserfahrung in einer vergleichbaren Position<li>Gute MS-Office und Abacus Kenntnisse<li>Muttersprache Deutsch<li>Sie sind eine teamorientierte, aufgestellte, motivierte und zuverlässige Persönlichkeit</ul><ul><li>Führen von Kundenbuchhaltungen<li>Kreditoren- und Debitorenbuchhaltung<li>Mithilfe bei den Monats- und Jahresabschlüssen<li>Führen von Lohnbuchhaltungen<li>Lohn- und Personaladministration<li>MWST<li>Steuererklärungen für nat. und jur. Personen</ul> ]]>
-            </TEXT>
-            <PLZ>8047</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
-            <URL></URL>
-            <BEWERBEN_URL>https://www.jobs.ch/de/application/create/045ed79f-4080-4e54-8644-94a60b9fa4fd/</BEWERBEN_URL>
-            <LOGO>504796</LOGO>
-            <REGION>:11:</REGION>
-            <RUBRIKID>:17:</RUBRIKID>
-            <POSITION>:2:</POSITION>
-            <BRANCHE>19</BRANCHE>
-            <ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>80</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>5</ANSTELLUNGSART>
-            <SPRACHE>de</SPRACHE>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <BILDUNGSNIVEAU>:1:193:543:</BILDUNGSNIVEAU>
-            <ALTER_VON>0</ALTER_VON>
-            <ALTER_BIS>65</ALTER_BIS>
-            <BERUFSERFAHRUNG>:17:</BERUFSERFAHRUNG>
-            <BERUFSERFAHRUNG_POSITION>:2:</BERUFSERFAHRUNG_POSITION>
-            <ANGEBOT>14</ANGEBOT>
-            <BANNER>43594</BANNER>
-            <VIDEO>https://www.youtube.com/watch?v=dQw4w9WgXcQ</VIDEO>
-        </INSERAT>
-    </INSERATE>
-</JOBS>    
+    <INSERATE/>
+    <INSERAT>
+        <ORGANISATIONID>
+            <![CDATA[ 109741 ]]>
+        </ORGANISATIONID>
+        <INSERATID>
+            <![CDATA[ 111 ]]>
+        </INSERATID>
+        <VORSPANN>
+            <![CDATA[ ]]>
+        </VORSPANN>
+        <BERUF>
+            <![CDATA[ Test Stage Arca24 ]]>
+        </BERUF>
+        <TEXT>
+            <![CDATA[ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+        </TEXT>
+        <ORT>
+            <![CDATA[ Zürich ]]>
+        </ORT>
+        <PLZ>
+            <![CDATA[ ]]>
+        </PLZ>
+        <STRASSE>
+            <![CDATA[ Bahnhofplatz 1 ]]>
+        </STRASSE>
+        <LOCATION>
+            <![CDATA[ Zürich ]]>
+        </LOCATION>
+        <KONTAKT>
+            <![CDATA[ ]]>
+        </KONTAKT>
+        <EMAIL>
+            <![CDATA[ ]]>
+        </EMAIL>
+        <URL>
+            <![CDATA[ https://careers.inplacemed.ch ]]>
+        </URL>
+        <DIREKT_URL>
+            <![CDATA[ https://careers.inplacemed.ch/job/view-job.php?id=410&language=de&source=jobsch ]]>
+        </DIREKT_URL>
+        <DIREKT_URL_POST_ARGS>
+            <![CDATA[ ]]>
+        </DIREKT_URL_POST_ARGS>
+        <KAMPAGNE>
+            <![CDATA[ free ]]>
+        </KAMPAGNE>
+        <LOGO>
+            <![CDATA[ ]]>
+        </LOGO>
+        <BANNER>
+            <![CDATA[ ]]>
+        </BANNER>
+        <VIDEO>
+            <![CDATA[ ]]>
+        </VIDEO>
+        <USER_KONTAKT_ID>
+            <![CDATA[ ]]>
+        </USER_KONTAKT_ID>
+        <ENDPOINT>
+            <![CDATA[ https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch ]]>
+        </ENDPOINT>
+    </INSERAT>
+</JOBS>
