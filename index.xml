@@ -1,65 +1,25 @@
 <JOBS>
     <INSERATE/>
     <INSERAT>
-        <ORGANISATIONID>
-            <![CDATA[ 109741 ]]>
-        </ORGANISATIONID>
-        <INSERATID>
-            <![CDATA[ 111 ]]>
-        </INSERATID>
-        <VORSPANN>
-            <![CDATA[ ]]>
-        </VORSPANN>
-        <BERUF>
-            <![CDATA[ Test Stage Arca24 ]]>
-        </BERUF>
-        <TEXT>
-            <![CDATA[ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
-        </TEXT>
-        <ORT>
-            <![CDATA[ Zürich ]]>
-        </ORT>
-        <PLZ>
-            <![CDATA[ ]]>
-        </PLZ>
-        <STRASSE>
-            <![CDATA[ Bahnhofplatz 1 ]]>
-        </STRASSE>
-        <LOCATION>
-            <![CDATA[ Zürich ]]>
-        </LOCATION>
-        <KONTAKT>
-            <![CDATA[ ]]>
-        </KONTAKT>
-        <EMAIL>
-            <![CDATA[ ]]>
-        </EMAIL>
-        <URL>
-            <![CDATA[ https://careers.inplacemed.ch ]]>
-        </URL>
-        <DIREKT_URL>
-            <![CDATA[ https://careers.inplacemed.ch/job/view-job.php?id=410&language=de&source=jobsch ]]>
-        </DIREKT_URL>
-        <DIREKT_URL_POST_ARGS>
-            <![CDATA[ ]]>
-        </DIREKT_URL_POST_ARGS>
-        <KAMPAGNE>
-            <![CDATA[ free ]]>
-        </KAMPAGNE>
-        <LOGO>
-            <![CDATA[ ]]>
-        </LOGO>
-        <BANNER>
-            <![CDATA[ ]]>
-        </BANNER>
-        <VIDEO>
-            <![CDATA[ ]]>
-        </VIDEO>
-        <USER_KONTAKT_ID>
-            <![CDATA[ ]]>
-        </USER_KONTAKT_ID>
+        <ORGANISATIONID>109741</ORGANISATIONID>
+        <INSERATID>111</INSERATID>
+        <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
+        <BERUF>Test Stage Arca24</BERUF>
+        <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
+        <ORT>Zürich</ORT>
+        <PLZ>8047</PLZ>
+        <STRASSE>Bahnhofplatz 1</STRASSE>
+        <LOCATION>Zürich</LOCATION>
+        <KONTAKT></KONTAKT>
+        <EMAIL></EMAIL>
+        <URL>https://careers.inplacemed.ch</URL>
+        <KAMPAGNE>free</KAMPAGNE>
+        <LOGO></LOGO>
+        <BANNER></BANNER>
+        <VIDEO></VIDEO>
+        <USER_KONTAKT_ID></USER_KONTAKT_ID>
         <ENDPOINT>
-            <![CDATA[ https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch ]]>
+             https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch 
         </ENDPOINT>
     </INSERAT>
 </JOBS>
