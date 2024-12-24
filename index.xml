@@ -1,11 +1,11 @@
 <JOBS>
     <INSERATE/>
     <INSERAT>
-        <ORGANISATIONID>109833</ORGANISATIONID>
-        <EXTERNAL_ID>1234</EXTERNAL_ID>
-        <INSERATID>12345</INSERATID>
+        <ORGANISATIONID>109741</ORGANISATIONID>
+        <EXTERNAL_ID>555</EXTERNAL_ID>
+        <INSERATID>555</INSERATID>
         <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
-        <BERUF>Test Stage Arca24 2</BERUF>
+        <BERUF>Test Stage Arca24 3</BERUF>
         <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
         <ORT>Zürich</ORT>
         <PLZ>8047</PLZ>
