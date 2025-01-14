@@ -1,11 +1,11 @@
 <JOBS>
     <INSERATE/>
     <INSERAT>
-        <ORGANISATIONID>109741</ORGANISATIONID>
+        <ORGANISATIONID>113920</ORGANISATIONID>
         <EXTERNAL_ID>555</EXTERNAL_ID>
         <INSERATID>555</INSERATID>
         <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
-        <BERUF>Test Stage Arca24 3</BERUF>
+        <BERUF>Test Stage Kombo Team ATSI</BERUF>
         <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
         <ORT>Zürich</ORT>
         <PLZ>8047</PLZ>
@@ -13,13 +13,10 @@
         <LOCATION>Zürich</LOCATION>
         <KONTAKT></KONTAKT>
         <EMAIL></EMAIL>
-        <URL>https://careers.inplacemed.ch</URL>
-        <KAMPAGNE>free</KAMPAGNE>
         <LOGO></LOGO>
         <BANNER></BANNER>
         <VIDEO></VIDEO>
         <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        <ENDPOINT>https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch</ENDPOINT>
-        <ANGEBOT>46</ANGEBOT>
+        <ANGEBOT>14</ANGEBOT>
     </INSERAT>
 </JOBS>
