@@ -1,8 +1,8 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <ORGANISATIONID>113920</ORGANISATIONID>
-            <INSERATID>3NcFaaMEZioy6astwmei8Cyk</INSERATID>
+            <ORGANISATIONID>109833</ORGANISATIONID>
+            <INSERATID>12345</INSERATID>
             <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
             <BERUF>Test Stage Kombo Team ATSI Nr 1</BERUF>
             <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
@@ -16,25 +16,7 @@
             <BANNER></BANNER>
             <VIDEO></VIDEO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
-            <ANGEBOT>14</ANGEBOT>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>113920</ORGANISATIONID>
-            <INSERATID>4957889</INSERATID>
-            <VORSPANN>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</VORSPANN>
-            <BERUF>Test Stage Kombo Team ATSI Nr 2</BERUF>
-            <TEXT>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</TEXT>
-            <ORT>Zürich</ORT>
-            <PLZ>8047</PLZ>
-            <STRASSE>Bahnhofplatz 1</STRASSE>
-            <LOCATION>Zürich</LOCATION>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <LOGO></LOGO>
-            <BANNER></BANNER>
-            <VIDEO></VIDEO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-            <ANGEBOT>14</ANGEBOT>
+            <ANGEBOT>44</ANGEBOT>
         </INSERAT>
     </INSERATE>
 </JOBS>
