@@ -1,34 +1,66 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <ORGANISATIONID>109833</ORGANISATIONID>
-            <INSERATID>275</INSERATID>
-            <FIRMA>TEST Jobcloud TEST</FIRMA>
-            <TITEL>TEST Umantis Jobcloud TEST</TITEL>
-            <VORSPANN/>
-            <BERUF>TEST Umantis Jobcloud TEST</BERUF>
-            <TEXT>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</TEXT>
-            <PLZ/>
-            <ORT>Zürich</ORT>
-            <KONTAKT>Neno</KONTAKT>
-            <URL>http://www.jobs.ch</URL>
-            <BEWERBEN_URL>https://recruitingapp-91007700.umantis.com/Vacancies/275/FurtherApplication/Apply/1</BEWERBEN_URL>
-            <REGION/>
-            <BRANCHE/>
-            <ANSTELLUNGSGRAD/>
-            <ANSTELLUNGSGRAD_BIS/>
-            <ANSTELLUNGSART/>
-            <SPRACHE>de</SPRACHE>
-            <SPRACHKENNTNIS_KANDIDAT>0</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>0</SPRACHKENNTNIS_NIVEAU>
-            <BILDUNGSNIVEAU>0</BILDUNGSNIVEAU>
-            <RUBRIKID/>
-            <BERUFSERFAHRUNG>0</BERUFSERFAHRUNG>
-            <BERUFSERFAHRUNG_POSITION>0</BERUFSERFAHRUNG_POSITION>
-            <POSITION/>
-            <ALTER_VON>0</ALTER_VON>
-            <ALTER_BIS>0</ALTER_BIS>
-            <ANGEBOT>44</ANGEBOT>
+            <ORGANISATIONID>
+                <![CDATA[ 113920 ]]>
+            </ORGANISATIONID>
+            <INSERATID>
+                <![CDATA[ 1484 ]]>
+            </INSERATID>
+            <VORSPANN>
+                <![CDATA[ NEW TEST FOR ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+            </VORSPANN>
+            <BERUF>
+                <![CDATA[ TEST AD ATSi FOR ARCA 24 TEST ]]>
+            </BERUF>
+            <TEXT>
+                <![CDATA[ NEW TEST FOR ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+            </TEXT>
+            <ORT>
+                <![CDATA[ Zürich, Zürich ]]>
+            </ORT>
+            <PLZ>
+                <![CDATA[ ]]>
+            </PLZ>
+            <STRASSE>
+                <![CDATA[ ]]>
+            </STRASSE>
+            <LOCATION>
+                <![CDATA[ Zürich, Zürich ]]>
+            </LOCATION>
+            <KONTAKT>
+                <![CDATA[ ]]>
+            </KONTAKT>
+            <EMAIL>
+                <![CDATA[ ]]>
+            </EMAIL>
+            <URL>
+                <![CDATA[ https://jobs.ch ]]>
+            </URL>
+            <DIREKT_URL>
+                <![CDATA[ https://talentum.arca24.careers/job/view-job.php?id=1484 ]]>
+            </DIREKT_URL>
+            <DIREKT_URL_POST_ARGS>
+                <![CDATA[ ]]>
+            </DIREKT_URL_POST_ARGS>
+            <KAMPAGNE>
+                <![CDATA[ free ]]>
+            </KAMPAGNE>
+            <LOGO>
+                <![CDATA[ ]]>
+            </LOGO>
+            <BANNER>
+                <![CDATA[ ]]>
+            </BANNER>
+            <VIDEO>
+                <![CDATA[ ]]>
+            </VIDEO>
+            <USER_KONTAKT_ID>
+                <![CDATA[ ]]>
+            </USER_KONTAKT_ID>
+            <ENDPOINT>
+                <![CDATA[ https://talentum.arca24.careers/job/jobcloudApply.php ]]>
+            </ENDPOINT>
         </INSERAT>
     </INSERATE>
 </JOBS>
