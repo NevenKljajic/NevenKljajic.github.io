@@ -8,13 +8,13 @@
                 <![CDATA[ 1484 ]]>
             </INSERATID>
             <VORSPANN>
-                <![CDATA[ NEW TEST FOR ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+                <![CDATA[ ]]>
             </VORSPANN>
             <BERUF>
                 <![CDATA[ TEST AD ATSi FOR ARCA 24 TEST ]]>
             </BERUF>
             <TEXT>
-                <![CDATA[ NEW TEST FOR ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+                <![CDATA[ NEW TEST TEST FOR ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
             </TEXT>
             <ORT>
                 <![CDATA[ Zürich, Zürich ]]>
@@ -37,14 +37,8 @@
             <URL>
                 <![CDATA[ https://jobs.ch ]]>
             </URL>
-            <DIREKT_URL>
-                <![CDATA[ https://talentum.arca24.careers/job/view-job.php?id=1484 ]]>
-            </DIREKT_URL>
-            <DIREKT_URL_POST_ARGS>
-                <![CDATA[ ]]>
-            </DIREKT_URL_POST_ARGS>
             <KAMPAGNE>
-                <![CDATA[ free ]]>
+                <![CDATA[ paid ]]>
             </KAMPAGNE>
             <LOGO>
                 <![CDATA[ ]]>
@@ -59,7 +53,7 @@
                 <![CDATA[ ]]>
             </USER_KONTAKT_ID>
             <ENDPOINT>
-                <![CDATA[ https://talentum.arca24.careers/job/jobcloudApply.php ]]>
+                <![CDATA[ https://careers.inplacemed.ch/job/jobcloudApply.php?utm_source=jobsch ]]>
             </ENDPOINT>
         </INSERAT>
     </INSERATE>
