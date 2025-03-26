@@ -52,6 +52,12 @@
             <USER_KONTAKT_ID>
                 <![CDATA[ ]]>
             </USER_KONTAKT_ID>
+            <ANGEBOT>
+                14
+            </ANGEBOT>
+            <BEWERBEN_URL>
+                <![CDATA[ https://recruitingapp-91005169.umantis.com/Vacancies/228/Application/CheckLogin/1?lang=ger ]]>
+            </BEWERBEN_URL>
         </INSERAT>
     </INSERATE>
 </JOBS>
