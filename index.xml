@@ -5,16 +5,16 @@
                 <![CDATA[ 113920 ]]>
             </ORGANISATIONID>
             <INSERATID>
-                <![CDATA[ 1484 ]]>
+                <![CDATA[ 228 ]]>
             </INSERATID>
             <VORSPANN>
                 <![CDATA[ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et ]]>
             </VORSPANN>
             <BERUF>
-                <![CDATA[ NEW Test1 AD for Arca24 ]]>
+                <![CDATA[ NEW Test AD for Umantis PROD ]]>
             </BERUF>
             <TEXT>
-                <![CDATA[TEST ARCA24 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
+                <![CDATA[TEST Umantis Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ]]>
             </TEXT>
             <ORT>
                 <![CDATA[ Zürich, Zürich ]]>
@@ -38,11 +38,8 @@
                 <![CDATA[ https://jobs.ch ]]>
             </URL>
             <DIREKT_URL>
-                <![CDATA[ https://talentum.arca24.careers/job/view-job.php?id=1484 ]]>
+                <![CDATA[ ]]>
             </DIREKT_URL>
-            <KAMPAGNE>
-                <![CDATA[ paid ]]>
-            </KAMPAGNE>
             <LOGO>
                 <![CDATA[ ]]>
             </LOGO>
@@ -55,9 +52,6 @@
             <USER_KONTAKT_ID>
                 <![CDATA[ ]]>
             </USER_KONTAKT_ID>
-            <ENDPOINT>
-                <![CDATA[ https://talentum.arca24.careers/job/jobcloudApply.php ]]>
-            </ENDPOINT>
         </INSERAT>
     </INSERATE>
 </JOBS>
